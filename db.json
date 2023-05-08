@@ -23,23 +23,234 @@
     "userdata": [
         {
             "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
+            "avatar":"https://cdn.dribbble.com/userupload/6832910/file/original-c78e44459082af24a81979b1f6dc2c1a.jpg?compress=1&crop=0x0-8198x6148&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/2710439/avatars/mini/301c9ef303e9dc613190b06b5844e939.jpg?1557740612",
+            "name":"Carazan Brands",
+            "heart": 30,
+            "view": "8.6k"
+
         },
         {
             "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
+            "avatar":"https://cdn.dribbble.com/userupload/6833341/file/original-076cea4e3188121ee4177c068368b5e7.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/18217/avatars/mini/dce632ae4dc2c1fbcd0ad3f0aae728bf.jpg?1520853025",
+            "name":"Bohdan Harbaruk",
+            "heart": 50,
+            "view": "6.6k"
+
         },
         {
             "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
+            "avatar":"https://cdn.dribbble.com/userupload/6834029/file/original-6904373a2a952fca7771ca71b840680b.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/1937255/avatars/mini/6e35b9da3c65833fb679281533cbab83.png?1562415677",
+            "name":"widelab",
+            "heart": 55,
+            "view": "4.8k"
+
+        },
+        {
+            "id": 4,
+            "avatar":"https://cdn.dribbble.com/userupload/6416848/file/original-24c789a4a0456225a2cc8a3af513277f.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/25514/avatars/mini/070810be04e642201206c8fbdffcbf8a.png?1455536235",
+            "name":"Ramotion",
+            "heart": 100,
+            "view": "3.8k"
+
+        },
+        {
+            "id": 5,
+            "avatar":"https://cdn.dribbble.com/userupload/6833997/file/original-ffc8b3dfdace387d002a53d1be21f74d.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/393931/avatars/mini/0d261275bbf6f9a56ebb62c858fe2d87.jpg?1651568460",
+            "name":"Mihai Dolganiuc",
+            "heart": 60,
+            "view": "6.5k"
+
+        },
+        {
+            "id": 6,
+            "avatar":"https://cdn.dribbble.com/userupload/6829888/file/original-cec121a82b2ee6419ec857cd2d7999b6.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/1154620/avatars/mini/170faabe67541983970404915123f792.png?1660650454",
+            "name":"heartbeat",
+            "heart": 62,
+            "view": "6.2k"
+
+        },
+        {
+            "id": 7,
+            "avatar":"https://cdn.dribbble.com/userupload/6817838/file/original-b3fdfcdc77ad76958f6d438c9244e3cd.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/2587130/avatars/mini/f4479b3fc90616017f15bcac76e1d7ad.png?1627036411",
+            "name":"widelab",
+            "heart": 65,
+            "view": "5.2k"
+
+        },
+        {
+            "id": 8,
+            "avatar":"https://cdn.dribbble.com/userupload/6837131/file/original-04b8290091f62fcf7865269acc2d3e1e.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/1573719/avatars/mini/1b299537341c829ddc968d627aeedf40.png?1610610205",
+            "name":"UNOM design",
+            "heart": 46,
+            "view": "5.7k"
+
+        },
+        {
+            "id": 9,
+            "avatar":"https://cdn.dribbble.com/userupload/6778067/file/original-c0a4a547f753c6fb1f8de1b254a806a6.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/25514/avatars/mini/070810be04e642201206c8fbdffcbf8a.png?1455536235",
+            "name":"Ramotion",
+            "heart": 53,
+            "view": "5.8k"
+
+        },
+        {
+            "id": 10,
+            "avatar":"https://cdn.dribbble.com/userupload/6826202/file/original-775c57a28ae7ca28c939240be03c6ab5.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/970950/avatars/mini/99e4a7b3bf179dd023d98ed24e0a8f32.png?1623907697",
+            "name":"Plainthing Studio",
+            "heart": 52,
+            "view": "4k"
+
+        },
+        {
+            "id": 11,
+            "avatar":"https://cdn.dribbble.com/userupload/6823439/file/original-11707495581bddfa20fa3bbcf089373f.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/834691/avatars/mini/c0329a5235306c5bca7037c6943eff68.png?1522921082",
+            "name":"RonDesignLab",
+            "heart": 72,
+            "view": "4.1k"
+
+        },
+        {
+            "id": 12,
+            "avatar":"https://cdn.dribbble.com/userupload/6825670/file/original-192df4962cb86befdfd2b77b5de4532c.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/1667332/avatars/mini/edd45777913e5de4434a1a1b812c76cf.png?1566878129",
+            "name":"One Week Wonders",
+            "heart": 78,
+            "view": "4.5k"
+
+        },
+        {
+            "id": 13,
+            "avatar":"https://cdn.dribbble.com/userupload/6833764/file/original-edc41ce8f359d8d4bb9adf85c8a684e1.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/677572/avatars/mini/cd94b72f04f84b0dcf1c1ee3f6bdf2b9.png?1634627780",
+            "name":"Lucian Radu",
+            "heart": 99,
+            "view": "4.1k"
+
+        },
+        {
+            "id": 14,
+            "avatar":"https://cdn.dribbble.com/userupload/6830709/file/original-3964c105b0b9579a320565e77545d01e.jpg?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/230290/avatars/mini/96ae6a336c2438078625b22e202374b4.png?1672745166",
+            "name":"Aditya | Logo Designer",
+            "heart": 89,
+            "view": "7.1k"
+
+        },
+        {
+            "id": 15,
+            "avatar":"https://cdn.dribbble.com/userupload/6837853/file/original-602adfe48baaa14ad8de4fe14f0e4c51.png?compress=1&crop=0x0-3201x2401&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/107759/avatars/mini/b718a83234554558bf21578364cc03ea.png?1676050868",
+            "name":"UI8",
+            "heart": 92,
+            "view": "8.1k"
+
+        },
+        {
+            "id": 16,
+            "avatar":"https://cdn.dribbble.com/userupload/6826221/file/original-87a89625c457fd4364d2c869e12371e3.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/6850340/avatars/mini/09e52d7cca4f82c18e68ba67bbaeb1dc.png?1664764970",
+            "name":"Odama",
+            "heart": 108,
+            "view": "8.9k"
+
+        },{
+            "id": 17,
+            "avatar":"https://cdn.dribbble.com/userupload/6825272/file/original-c801fe4e778d5a546ad1f240dfd7f479.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/6567474/avatars/mini/b849c692c6c9fc9cfdca178b90e354d2.png?1607746416",
+            "name":"Vektora",
+            "heart": 109,
+            "view": "8.7k"
+
+        },{
+            "id": 18,
+            "avatar":"https://cdn.dribbble.com/userupload/6833106/file/original-c906e071e489b25bcbcf1a88148b44de.jpg?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/13604/avatars/mini/cresk_avatar2.png?1403093479",
+            "name":"Gert van Duinen",
+            "heart": 19,
+            "view": "8.8k"
+
+        },{
+            "id": 19,
+            "avatar":"https://cdn.dribbble.com/userupload/6827223/file/original-ef0a75751d62f093dc773de60e307d54.jpg?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/6532302/avatars/mini/02a563d240e1066bb267ebea531cd66e.jpg?1682996768",
+            "name":"Touhid | Logo Designe",
+            "heart": 223,
+            "view": "9.8k"
+
+        },{
+            "id": 20,
+            "avatar":"https://cdn.dribbble.com/userupload/6824991/file/original-4722ff6fb583da6a019bcbf0baf3e016.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/83080/avatars/mini/ca0c3860b8805bbf151f7a4054ace229.png?1532907226",
+            "name":"Sander de Wekker",
+            "heart": 203,
+            "view": "4.6k"
+
+        },{
+            "id": 21,
+            "avatar":"https://cdn.dribbble.com/userupload/6580435/file/still-c8f15bab986e6a5f15296b5082b61fa8.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/34556/avatars/mini/6d987124d62d3bb4004fa3b26de3fcac.png?1641835008",
+            "name":"kreativa",
+            "heart": 123,
+            "view": "4.9k"
+
+        },{
+            "id": 22,
+            "avatar":"https://cdn.dribbble.com/userupload/6820443/file/original-cef0fa0db7dbafed6bec7f57a97cab9e.png?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/878428/avatars/mini/2d70f62e2a2da30d2227f68498e5e897.png?1652082459",
+            "name":"Fintory",
+            "heart": 102,
+            "view": "3.2k"
+
+        },
+        {
+            "id": 23,
+            "avatar":"https://cdn.dribbble.com/userupload/6741158/file/original-2e936e5ec127421df6980e5ed41a5e47.jpg?compress=1&crop=405x304-2595x1946&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/13642180/avatars/normal/30fc72db8edba43727f5d7010d256667.jpg?1666835069",
+            "name":"ever.",
+            "heart": 273,
+            "view": "3.8k"
+
+        },{
+            "id": 24,
+            "avatar":"https://cdn.dribbble.com/userupload/6834977/file/original-b5ba993378da1eefeacdc988f057bf74.jpg?compress=1&resize=400x300&vertical=top",
+            "img":"https://cdn.dribbble.com/users/2297167/avatars/mini/d1d700ffe38c07287d079f38a1d3d601.png?1680725745",
+            "name":"Dmitriy Dzendo",
+            "heart": 138,
+            "view": "8.8k"
+
         }
+        
+
+
+       
+    ],
+    "login": [
+        {
+            "email":"aniketyadav1904@gmail.com",
+            "password":"1234"
+        },
+        {
+            "email":"abc@gmail.com",
+            "password":"123"
+        }
+        
+    ],
+    "registration":[
+        
     ]
+
+    
 
     
 
